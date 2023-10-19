@@ -1,0 +1,16 @@
+/* eslint-disable react/no-unescaped-entities */
+
+
+
+import CV from '../../assets/md1 (2).pdf'
+
+const CTA = () => {
+    return (
+        <div className='cta'>
+            <a href={CV} download className='btn'>Download CV</a>
+            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+        </div>
+    );
+};
+
+export default CTA;
