@@ -65,4 +65,8 @@ header{
     .scroll_down{
         display: none;
     }
+    header{
+        height: 100vh;
+    }
+
 }
