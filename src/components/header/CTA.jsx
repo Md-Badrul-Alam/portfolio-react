@@ -2,7 +2,7 @@
 
 
 
-import CV from '../../assets/md1 (2).pdf'
+import CV from '../../assets/md_1.jpg'
 
 const CTA = () => {
     return (
